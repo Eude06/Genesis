@@ -1,2 +1,2 @@
 # Genesis
-Respinsive Designs
+Responsive Designs
